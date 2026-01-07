@@ -1,3 +1,3 @@
 # Swift Docs
 
-Documentation repository for [Swift RMS](https://swiftrms.co.uk).
+Documentation repository for [SwiftRMS](https://swiftrms.co.uk).
